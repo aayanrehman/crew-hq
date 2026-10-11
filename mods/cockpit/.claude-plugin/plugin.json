@@ -1,0 +1,12 @@
+{
+  "name": "cockpit",
+  "version": "1.0.0",
+  "description": "Live session cockpit: cost, context and rate-limit gauges, tool activity, what Claude is doing right now",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Aayan Rehman",
+    "url": "https://aayanrehman.com"
+  },
+  "repository": "https://github.com/aayanrehman/crew-hq",
+  "license": "MIT"
+}

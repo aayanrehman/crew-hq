@@ -1,0 +1,12 @@
+{
+  "name": "crew-hq",
+  "version": "1.0.0",
+  "description": "Crew HQ: an HQ pane over every project's TASKS.md and a team of five subagents that pick up @claude tasks, huddle, and report back",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Aayan Rehman",
+    "url": "https://aayanrehman.com"
+  },
+  "repository": "https://github.com/aayanrehman/crew-hq",
+  "license": "MIT"
+}

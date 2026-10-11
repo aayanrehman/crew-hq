@@ -1,0 +1,11 @@
+{
+  "name": "done-ping",
+  "version": "1.0.0",
+  "description": "Chime + summary toast when a long Claude task finishes, so you can switch tabs while it works",
+  "author": {
+    "name": "Aayan Rehman",
+    "url": "https://aayanrehman.com"
+  },
+  "repository": "https://github.com/aayanrehman/crew-hq",
+  "license": "MIT"
+}

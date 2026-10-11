@@ -1,0 +1,29 @@
+{
+  "name": "crew-hq",
+  "description": "Crew HQ: an AI team inside Claude Code, plus a live cost cockpit, a done chime and a destructive-command seatbelt.",
+  "owner": {
+    "name": "Aayan Rehman"
+  },
+  "plugins": [
+    {
+      "name": "crew-hq",
+      "source": "./mods/crew-hq",
+      "description": "HQ pane over every project's TASKS.md + a crew of five subagents that pick up @claude tasks, huddle, and report back"
+    },
+    {
+      "name": "cockpit",
+      "source": "./mods/cockpit",
+      "description": "Live cost, context and rate-limit gauges, tool activity and what Claude is doing right now"
+    },
+    {
+      "name": "done-ping",
+      "source": "./mods/done-ping",
+      "description": "Chime + summary toast when a long task finishes"
+    },
+    {
+      "name": "seatbelt",
+      "source": "./mods/seatbelt",
+      "description": "Blocks rm -rf, force pushes, hard resets, table drops and .env edits before they run"
+    }
+  ]
+}
